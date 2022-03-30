@@ -1,0 +1,38 @@
+body{
+        background-image: url('cosmo.jpg');
+}
+
+.blog{
+        border: 5px solid darkred;
+}
+
+.p{
+        color: darkred;
+        font-size: 50px;
+}
+
+
+.div{
+        padding: px 0px 0px 0px;
+        width: 100%;
+}
+
+.p1{
+        padding: 100px 500px 10px 80px;
+        color: white;
+        font-size: 20px;
+
+ }
+ 
+.p2{
+        color:white;
+        font-size: 25px;
+      
+}
+
+.p3{
+        padding: 0px 100px 0px 0px;
+        font-size: 25px;
+        color: white;
+
+}
